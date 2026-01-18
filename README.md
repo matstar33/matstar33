@@ -26,7 +26,7 @@ Developed as a showcase for **G-Star 2025**, this project was a deep dive into G
 
 ---
 
-### 📈 GitHub Stats & Contact
+### 📈 Contact
 
 * **Email:** matstar0112@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/gyu-8b7a773a4/
