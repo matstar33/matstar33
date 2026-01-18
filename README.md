@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm [Kil Gyu Cheol]! 👋
 
 I’m a **Software Engineering student** at Soonchunhyang University and a graduate of the **6th Game Institute (GIG)** program. I love exploring the intersection of high-performance engineering and visual storytelling.
 
@@ -34,7 +34,7 @@ Developed as a showcase for **G-Star 2024**, this project was a deep dive into G
 </p>
 
 * **Email:** [matstar0112@gmail.com]
-* **LinkedIn:** [Your LinkedIn Profile]
+* **LinkedIn:** [(https://www.linkedin.com/in/gyu-8b7a773a4/)]
 * **Portfolio/Blog:** [(https://checker-dance-880.notion.site/289a3dfe66c980a594d2dabc9d762f06?v=2bba3dfe66c98096a52b000c34891a04&source=copy_link)]
 
 ---
