@@ -1,32 +1,33 @@
 # Hi there, I'm [Kil Gyu Cheol]! 👋
 
-I’m a **Software Engineering student** at Soonchunhyang University and a graduate of the **6th Game Institute (GIG)** program. I love exploring the intersection of high-performance engineering and visual storytelling.
+I am a **Software Engineering student** at Soonchunhyang University and a graduate of the **6th Game Institute (GIG)** program. I focus on high-performance graphics and efficient real-time simulations.
 
-Currently, I'm focused on mastering **Real-time Rendering** and finding efficient ways to simulate reality through code.
+I enjoy the process of solving technical challenges at the hardware level, particularly in how the GPU can be leveraged to create fluid visual experiences.
 
 ---
 
-### 🛠 My Technical Toolkit
+### 🛠 Technical Interests
 
-> "Always a student of the craft, currently diving deep into Modern C++ and GPU architectures."
-
-* **Graphics & Rendering:** ![DirectX 11](https://img.shields.io/badge/DirectX%2011-0078D7?style=flat-square&logo=microsoft&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-gray?style=flat-square) ![Compute Shader](https://img.shields.io/badge/Compute%20Shader-FFB000?style=flat-square)
-* **Languages:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B%20(23)-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-* **Fields of Interest:** `Particle Systems`, `Real-time Rendering`, `VFX Pipeline`
-
+* **Graphics & GPU Architecture**
+    * DirectX 11, HLSL Compute Shaders
+    * GPU-driven simulation & optimization
+* **Languages**
+    * C++ / Modern C++ (Exploring C++23)
+* **Specialties**
+    * Modular Particle Systems, Real-time Rendering, VFX Pipeline
 ---
 
 ### 🌟 Featured Project: *Kori: the Spritail*
 
-Developed as a showcase for **G-Star 2025**, this project was a deep dive into GPU-driven simulation.
+Developed as a showcase for **G-Star 2025**, focusing on technical scalability and performance.
 
-* **Modular GPU Particle System:** Built a flexible architecture inspired by *Unreal Engine Niagara*.
-* **Performance Optimization:** Shifted heavy computation to the GPU using **Compute Shaders**, resulting in a **100-150x performance gain** over CPU implementations.
-* **Visual Fidelity:** Focused on creating expressive, high-density VFX that maintain stable frame rates in demanding environments.
-
+* **Modular GPU Particle System**
+    * Implemented a node-based logic inspired by *Unreal Engine Niagara*.
+    * Achieved **100-150x performance improvement** by offloading particle updates and physics to **Compute Shaders**.
+    * Designed for massive-scale VFX while maintaining low CPU overhead.
 ---
 
-### 📈 Contact
+### 📫 Contact & Links
 
 * **Email:** matstar0112@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/gyu-8b7a773a4/
