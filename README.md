@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**matstar33/matstar33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Software Engineering student** at Soonchunhyang University and a graduate of the **6th Game Institute (GIG)** program. I love exploring the intersection of high-performance engineering and visual storytelling.
 
-Here are some ideas to get you started:
+Currently, I'm focused on mastering **Real-time Rendering** and finding efficient ways to simulate reality through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Technical Toolkit
+
+> "Always a student of the craft, currently diving deep into Modern C++ and GPU architectures."
+
+* **Graphics & Rendering:** ![DirectX 11](https://img.shields.io/badge/DirectX%2011-0078D7?style=flat-square&logo=microsoft&logoColor=white) ![HLSL](https://img.shields.io/badge/HLSL-gray?style=flat-square) ![Compute Shader](https://img.shields.io/badge/Compute%20Shader-FFB000?style=flat-square)
+* **Languages:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Modern C++](https://img.shields.io/badge/Modern%20C%2B%2B%20(23)-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+* **Fields of Interest:** `Particle Systems`, `Real-time Rendering`, `VFX Pipeline`
+
+---
+
+### 🌟 Featured Project: *Kori: the Spritail*
+
+Developed as a showcase for **G-Star 2024**, this project was a deep dive into GPU-driven simulation.
+
+* **Modular GPU Particle System:** Built a flexible architecture inspired by *Unreal Engine Niagara*.
+* **Performance Optimization:** Shifted heavy computation to the GPU using **Compute Shaders**, resulting in a **100-150x performance gain** over CPU implementations.
+* **Visual Fidelity:** Focused on creating expressive, high-density VFX that maintain stable frame rates in demanding environments.
+
+---
+
+### 📈 GitHub Stats & Contact
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=[matstar33]&show_icons=true&theme=vivid&hide_border=true" alt="Your Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[matstar33]&layout=compact&theme=vivid&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+* **Email:** [matstar0112@gmail.com]
+* **LinkedIn:** [Your LinkedIn Profile]
+* **Portfolio/Blog:** [(https://checker-dance-880.notion.site/289a3dfe66c980a594d2dabc9d762f06?v=2bba3dfe66c98096a52b000c34891a04&source=copy_link)]
+
+---
+*“Better code for better visuals.”*
