@@ -28,11 +28,6 @@ Developed as a showcase for **G-Star 2025**, this project was a deep dive into G
 
 ### 📈 GitHub Stats & Contact
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=matstar33&show_icons=true&theme=vivid&hide_border=true" alt="Your Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matstar33&layout=compact&theme=vivid&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
 * **Email:** matstar0112@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/gyu-8b7a773a4/
 * **Portfolio/Blog:** https://checker-dance-880.notion.site/289a3dfe66c980a594d2dabc9d762f06?v=2bba3dfe66c98096a52b000c34891a04&source=copy_link
