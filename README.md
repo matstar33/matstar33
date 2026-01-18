@@ -18,7 +18,7 @@ Currently, I'm focused on mastering **Real-time Rendering** and finding efficien
 
 ### 🌟 Featured Project: *Kori: the Spritail*
 
-Developed as a showcase for **G-Star 2024**, this project was a deep dive into GPU-driven simulation.
+Developed as a showcase for **G-Star 2025**, this project was a deep dive into GPU-driven simulation.
 
 * **Modular GPU Particle System:** Built a flexible architecture inspired by *Unreal Engine Niagara*.
 * **Performance Optimization:** Shifted heavy computation to the GPU using **Compute Shaders**, resulting in a **100-150x performance gain** over CPU implementations.
